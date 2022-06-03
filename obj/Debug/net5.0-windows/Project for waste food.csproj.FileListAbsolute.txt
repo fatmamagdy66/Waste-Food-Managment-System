@@ -1,0 +1,184 @@
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Project for waste food.exe
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Project for waste food.deps.json
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Project for waste food.runtimeconfig.json
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Project for waste food.runtimeconfig.dev.json
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Project for waste food.dll
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\ref\Project for waste food.dll
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Project for waste food.pdb
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\SQLitePCLRaw.nativelibrary.dll
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\SQLitePCLRaw.core.dll
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project for waste food.csproj.AssemblyReference.cache
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project for waste food.csproj.GenerateResource.cache
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project for waste food.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project for waste food.AssemblyInfoInputs.cache
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project for waste food.AssemblyInfo.cs
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project for waste food.csproj.CoreCompileInputs.cache
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project for waste food.csproj.CopyComplete
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project for waste food.dll
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\ref\Project for waste food.dll
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project for waste food.pdb
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project for waste food.genruntimeconfig.cache
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project_for_waste_food.log_in.resources
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project_for_waste_food.Form1.resources
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project_for_waste_food.Properties.Resources.resources
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project_for_waste_food.signUpAsCharity.resources
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project_for_waste_food.ChooseAndSelectFood.resources
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project_for_waste_food.howDonorAddFood.resources
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project_for_waste_food.Profile.resources
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project_for_waste_food.Home.resources
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project_for_waste_food.Add_Doner.resources
+C:\Users\mom\source\repos\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project_for_waste_food.Home_Admin.resources
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Project for waste food.exe
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Project for waste food.deps.json
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Project for waste food.runtimeconfig.json
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Project for waste food.runtimeconfig.dev.json
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Project for waste food.dll
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\ref\Project for waste food.dll
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Project for waste food.pdb
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project for waste food.csproj.AssemblyReference.cache
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project_for_waste_food.Add_Doner.resources
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project_for_waste_food.ChooseAndSelectFood.resources
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project_for_waste_food.Form1.resources
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project_for_waste_food.Home_Admin.resources
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project_for_waste_food.Home.resources
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project_for_waste_food.howDonorAddFood.resources
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project_for_waste_food.log_in.resources
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project_for_waste_food.Profile.resources
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project_for_waste_food.Properties.Resources.resources
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project_for_waste_food.signUpAsCharity.resources
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project for waste food.csproj.GenerateResource.cache
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project for waste food.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project for waste food.AssemblyInfoInputs.cache
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project for waste food.AssemblyInfo.cs
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project for waste food.csproj.CoreCompileInputs.cache
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project for waste food.csproj.CopyComplete
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project for waste food.dll
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\ref\Project for waste food.dll
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project for waste food.pdb
+C:\Users\Dell_PC\Downloads\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project for waste food.genruntimeconfig.cache
+E:\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Project for waste food.exe
+E:\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Project for waste food.deps.json
+E:\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Project for waste food.runtimeconfig.json
+E:\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Project for waste food.runtimeconfig.dev.json
+E:\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Project for waste food.dll
+E:\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Project for waste food.pdb
+E:\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Microsoft.Data.Sqlite.dll
+E:\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+E:\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+E:\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\SQLitePCLRaw.batteries_v2.dll
+E:\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\SQLitePCLRaw.nativelibrary.dll
+E:\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\SQLitePCLRaw.core.dll
+E:\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+E:\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+E:\Project for waste food\Project for waste food\bin\Debug\net5.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+E:\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project for waste food.csproj.AssemblyReference.cache
+E:\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project_for_waste_food.Add_Doner.resources
+E:\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project_for_waste_food.ChooseAndSelectFood.resources
+E:\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project_for_waste_food.Form1.resources
+E:\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project_for_waste_food.Home_Admin.resources
+E:\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project_for_waste_food.Home.resources
+E:\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project_for_waste_food.howDonorAddFood.resources
+E:\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project_for_waste_food.log_in.resources
+E:\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project_for_waste_food.Profile.resources
+E:\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project_for_waste_food.Properties.Resources.resources
+E:\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project_for_waste_food.signUpAsCharity.resources
+E:\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project for waste food.csproj.GenerateResource.cache
+E:\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project for waste food.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project for waste food.AssemblyInfoInputs.cache
+E:\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project for waste food.AssemblyInfo.cs
+E:\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project for waste food.csproj.CoreCompileInputs.cache
+E:\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project for waste food.csproj.CopyComplete
+E:\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project for waste food.dll
+E:\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\refint\Project for waste food.dll
+E:\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project for waste food.pdb
+E:\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\Project for waste food.genruntimeconfig.cache
+E:\Project for waste food\Project for waste food\obj\Debug\net5.0-windows\ref\Project for waste food.dll
